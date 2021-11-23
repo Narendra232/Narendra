@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **ApiGee, Devops,AWS**
 
-- 💬 Ask me about **react ,angular, nodejs, expressjs, typescript, javascript**
+- 💬 Ask me about **React  Angular  Nodejs  Expressjs  TypeScript  JavaScript**
 
 - 📫 How to reach me **https://github.com/narendra-kumar91**
 
