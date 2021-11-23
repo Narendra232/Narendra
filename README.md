@@ -19,8 +19,6 @@
 <p align="left">
 </p>
 
-
-
 ## Tech Stack :computer:
 
 <br>
@@ -28,8 +26,8 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>Ansible</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
+<span><b><center>Angular</center></b></span> 
+<img height=60px src="https://angular.io/assets/images/logos/angular/angular.svg"> 
 </td>
 
 <td align="center" width="20%">
@@ -44,7 +42,10 @@
 </tr>
 
 <tr>
-
+<td align="center" width="20%">
+<span><b><center>React</center></b></span> 
+<img height=65px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> 
+</td>
 
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
@@ -70,7 +71,10 @@
 
 
 
-
+<td align="center" width="20%">
+<span><b><center>NodeJs</center></b></span> 
+<img height=65px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> 
+</td>
 </tr>
 
 <tr>
@@ -85,8 +89,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
+<span><b><center>Express</center></b></span> 
+<img height=65px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> 
 </td>
 </tr>
 
@@ -95,7 +99,7 @@
 
 
  
-![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=DiptoChakrabarty&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 
 <br />
 <br />
