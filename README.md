@@ -2,7 +2,7 @@
 <img class="profile-background-image__image relative
             full-width full-height" id="profile-background-image-target-image" alt="Background Image" src="https://media-exp1.licdn.com/dms/image/C4D16AQGKdtwTi2wTRw/profile-displaybackgroundimage-shrink_350_1400/0/1637684362202?e=1643241600&amp;v=beta&amp;t=7Cvo77gadehiZ4L7hi5BtxTjU8dbcuwLwPJjfYaIRK0"  height="250" width="100%">
 
-<h1></h1>
+
 
 
 
