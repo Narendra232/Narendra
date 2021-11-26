@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **React  Angular  Nodejs  Expressjs  TypeScript  JavaScript**
 
-- 📫 How to reach me **https://github.com/narendra-kumar91**
+- 📫 How to reach me **https://www.linkedin.com/in/narendra-kumar91/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
