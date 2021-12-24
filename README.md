@@ -1,11 +1,3 @@
- 
-<img class="profile-background-image__image relative
-            full-width full-height" id="profile-background-image-target-image" alt="Background Image" src="https://media-exp1.licdn.com/dms/image/C5616AQG9Axr1GlqTWg/profile-displaybackgroundimage-shrink_350_1400/0/1640347371639?e=1645660800&v=beta&t=hqs1bZAOu5A3EV7Mqy5_CQDd40D1bcu9ZCOdjqaD2iw;"  height="250" width="100%">
-
-
-
-
-
 
 <h1 align="center">Hi 👋, I'm Narendra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
