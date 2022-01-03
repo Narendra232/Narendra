@@ -1,4 +1,4 @@
-![Name](mean-vs-mern.png)
+![Name](meanmern.png)
 <h1 align="center">Hi 👋, I'm Narendra Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
