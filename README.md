@@ -44,8 +44,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </td>
 
 <td align="center" width="20%">
-<span><b><center>AWS</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+<span><b><center>React</center></b></span> 
+<img height=65px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> 
 </td>
 
 <td align="center" width="20%">
@@ -55,10 +55,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </tr>
 
 <tr>
-<td align="center" width="20%">
-<span><b><center>React</center></b></span> 
-<img height=65px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> 
+ <td align="center" width="20%">
+<span><b><center>AWS</center></b></span> 
+<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
 </td>
+
 
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
