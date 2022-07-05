@@ -11,6 +11,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-narendra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-kumar91/)
+<a href="https://www.linkedin.com/in/narendra-kumar91/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> <img src="https://komarev.com/ghpvc/?username=narendra-kumar91&label=Profile%20views&color=0e75b6&style=flat" alt="narendra-kumar91" />
+
 ---
 ### 🛠 &nbsp;Languages and Tools :
 
