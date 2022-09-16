@@ -2,7 +2,7 @@
 
 <h1 align="center">hey there ! My Name Is Narendra Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<p align="center"><img src="https://github.com/Narendra232/Narendra232/blob/main/undraw_programming_re_kg9v.svg" width="1080" height="400"  /></p>
+
 
 ### 👨‍💼 &nbsp;About Me :
 
