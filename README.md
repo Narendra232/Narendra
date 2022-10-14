@@ -18,11 +18,11 @@ I'm a Software Developer and DevOps Engineer from India <img src="https://media.
 
 
 
-- 🔭 I’m currently working on **ApiGee Practice**
+- 🔭 I’m currently working on **AWS API Gateway Practice**
 
-- 🌱 I’m currently learning **APIGEE,AWS,**
+- 🌱 I’m currently Working on **APIGEE,AWS API Gateway,**
 
-- 👯 I’m looking to collaborate on **ApiGee practice**
+- 👯 I’m looking to collaborate on **AWS API Gateway ,ApiGee practice**
 
 - 🤝 I’m looking for help with **ApiGee, Devops,AWS**
 
