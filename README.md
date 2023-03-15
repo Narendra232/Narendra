@@ -26,7 +26,7 @@ I'm a Fullstack Developer and DevOps Engineer from India <img src="https://media
 
 - 🤝 I’m looking for help with **ApiGee, Devops,AWS**
 
-- 💬 Ask me about <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angular" alt="angular" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
+ 
 
 
 
